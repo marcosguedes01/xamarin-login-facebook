@@ -1,7 +1,7 @@
 using Android.App;
 using Newtonsoft.Json.Linq;
 using System;
-using Xamarin.Auth;
+using Xamarin.Auth; // Versão 1.3.2
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using XamLoginFacebook;
